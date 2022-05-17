@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Ruslan Yarmukhametov
-- 👀 I’m interested in ...
+- 👀 I’m interested in coding
 - 🌱 I’m currently studying at the Yandex Web Development courses
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me styxrus@yandex.ru
 
 <!---
 ruslanyar/ruslanyar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

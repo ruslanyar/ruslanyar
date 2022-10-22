@@ -9,14 +9,7 @@
 
 <h3>Languages and Tools</h3>
 
-<img src="https://img.shields.io/badge/html5-003140?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/css3-003140?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/javascript-003140?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/typescript-003140?style=for-the-badge&logo=typescript"/>
-<img src="https://img.shields.io/badge/react-003140?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/redux-003140?style=for-the-badge&logo=redux"/>
-<img src="https://img.shields.io/badge/jest-003140?style=for-the-badge&logo=jest"/>
-<img src="https://img.shields.io/badge/cypress-003140?style=for-the-badge&logo=cypress"/>
+<img src="https://img.shields.io/badge/html5-003140?style=for-the-badge&logo=html5"/> <img src="https://img.shields.io/badge/css3-003140?style=for-the-badge&logo=css3"/> <img src="https://img.shields.io/badge/javascript-003140?style=for-the-badge&logo=javascript"/> <img src="https://img.shields.io/badge/typescript-003140?style=for-the-badge&logo=typescript"/> <img src="https://img.shields.io/badge/react-003140?style=for-the-badge&logo=react"/> <img src="https://img.shields.io/badge/redux-003140?style=for-the-badge&logo=redux"/> <img src="https://img.shields.io/badge/jest-003140?style=for-the-badge&logo=jest"/> <img src="https://img.shields.io/badge/cypress-003140?style=for-the-badge&logo=cypress"/>
 
 <br/>
 

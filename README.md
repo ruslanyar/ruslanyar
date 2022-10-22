@@ -16,10 +16,10 @@
 <h3>My stats</h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ruslanyar&hide=issues&count_private=true&show_icons=true&bg_color=003140&title_color=32CD32&text_color=CECECE&icon_color=32CD32&border_radius=5&border_color=32CD32" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ruslanyar&hide=issues&count_private=true&&card_width=400show_icons=true&bg_color=003140&title_color=32CD32&text_color=CECECE&icon_color=32CD32&border_radius=5&border_color=32CD32" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruslanyar&layout=compact&card_width=445e&bg_color=003140&title_color=32CD32&text_color=CECECE&border_radius=5&border_color=32CD32">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruslanyar&layout=compact&card_width=350&bg_color=003140&title_color=32CD32&text_color=CECECE&border_radius=5&border_color=32CD32">
 </a>
 
 <br/>

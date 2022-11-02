@@ -3,7 +3,8 @@
 - 👨‍💻 I’m interested in programming
 - 📚 I’m currently studying at the Yandex Web-Development courses
 - 🎸 I like board games and playing guitar
-- 📫 How to reach me styxrus@yandex.ru
+- 📫 How to reach me ruslan.yar-v@yandex.ru
+- &#10148;  My telegram https://t.me/ruslan_yarm
 
 <br/>
 

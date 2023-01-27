@@ -17,10 +17,10 @@
 <h3>My stats</h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api?username=ruslanyar&hide=issues&count_private=true&card_width=400&show_icons=true&bg_color=003140&title_color=4ee077&text_color=CECECE&icon_color=4ee077&border_radius=5&border_color=4ee077" />
+  <img align="center" src="https://github-readme-stats-ruslanyar.vercel.app//api?username=ruslanyar&hide=issues&count_private=true&card_width=400&show_icons=true&bg_color=003140&title_color=4ee077&text_color=CECECE&icon_color=4ee077&border_radius=5&border_color=4ee077" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=ruslanyar&layout=compact&card_width=350&bg_color=003140&title_color=4ee077&text_color=CECECE&border_radius=5&border_color=4ee077">
+  <img align="center" src="https://github-readme-stats-ruslanyar.vercel.app//api/top-langs/?username=ruslanyar&layout=compact&card_width=350&bg_color=003140&title_color=4ee077&text_color=CECECE&border_radius=5&border_color=4ee077">
 </a>
 
 <br/>

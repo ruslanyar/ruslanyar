@@ -18,8 +18,8 @@
 
 <h2>:chart_with_upwards_trend: My stats</h3>
 
-<img style="width: 50%;" src="https://github-readme-stats-ruslanyar.vercel.app//api?username=ruslanyar&hide=issues&count_private=true&show_icons=true&bg_color=003140&title_color=4ee077&text_color=CECECE&icon_color=4ee077&border_radius=5&border_color=4ee077" />
-<img style="width: 50%;" src="https://github-readme-stats-ruslanyar.vercel.app//api/top-langs/?username=ruslanyar&layout=compact&bg_color=003140&title_color=4ee077&text_color=CECECE&border_radius=5&border_color=4ee077">
+<img style="width: 50%;" src="https://github-readme-stats-beige-seven.vercel.app/api?username=ruslanyar&hide=issues&count_private=true&show_icons=true&bg_color=003140&title_color=4ee077&text_color=CECECE&icon_color=4ee077&border_radius=5&border_color=4ee077" />
+<img style="width: 50%;" src="https://github-readme-stats-beige-seven.vercel.app/api/top-langs/?username=ruslanyar&layout=compact&bg_color=003140&title_color=4ee077&text_color=CECECE&border_radius=5&border_color=4ee077">
 <img style="width: 50%;" src="https://streak-stats.demolab.com?user=ruslanyar&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D&background=003140&ring=4ee077&fire=CD543C&sideNums=4ee077&currStreakLabel=CECECE&border=4ee077" />
 
 ---

@@ -1,9 +1,9 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=00fc00&multiline=true&width=450&height=60&lines=Hi%2C+I%E2%80%99m+Ruslan+Yarmukhametov;And+I%60m+a+beginner+FrontEnd+Developer" alt="Typing SVG" />
-<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=00fc00&multiline=true&width=450&height=60&lines=Hi%2C+I%E2%80%99m+Ruslan+Yarmukhametov;And+I%60m+a+FrontEnd+Developer" alt="Typing SVG" />
+<img align="right" alt="Coding" width="300" src="./images/coding.gif">
 
 - 👨‍💻 I’m interested in programming
 - 🎸 I like board games and playing guitar
-- 📫 How to reach me styxrus@yandex.ru
+- 📫 How to reach me ruslan.yar-v@yandex.ru
 
 <br>
 <br>

@@ -1,9 +1,6 @@
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=00fc00&multiline=true&width=450&height=60&lines=Hi%2C+I%E2%80%99m+Ruslan+Yarmukhametov;And+I%60m+a+FrontEnd+Developer" alt="Typing SVG" />
 <img align="right" alt="Coding" width="400" src="./images/coding.gif"></div>
 
-<br>
-<br>
-
 💫 About Me:
 
 🔭 I’m currently working on developing web applications in React and Node.js.<br>🤝 I’m looking for help with learning Docker and Kubernetes to improve skills in DevOps.<br>🌱 I’m currently learning Next.js and improving my knowledge of algorithms<br>🎸 I like board games and playing guitar<br>

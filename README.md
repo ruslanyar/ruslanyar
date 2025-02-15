@@ -45,4 +45,4 @@
 
 ---
 
-[![codewars](https://www.codewars.com/users/ruslanyar/badges/small)](https://www.codewars.com/users/ruslanyar)
+[![codewars](https://www.codewars.com/users/ruslanyar/badges/large)](https://www.codewars.com/users/ruslanyar)

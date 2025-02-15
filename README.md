@@ -4,25 +4,27 @@
 <br>
 <br>
 
-- 👨‍💻 I’m interested in programming
-- 🎸 I like board games and playing guitar
-- 📫 How to reach me ruslan.yar-v@yandex.ru
+💫 About Me:
+
+🔭 I’m currently working on developing web applications in React and Node.js.<br>🤝 I’m looking for help with learning Docker and Kubernetes to improve skills in DevOps.<br>🌱 I’m currently learning Next.js<br>🎸 I like board games and playing guitar<br>
 
 <br>
 <br>
 <br>
 
-<h2>:hammer: Languages and Tools</h3>
+## 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
 
-<img src="https://img.shields.io/badge/html5-003140?style=for-the-badge&logo=html5"/> <img src="https://img.shields.io/badge/css3-003140?style=for-the-badge&logo=css3"/> <img src="https://img.shields.io/badge/javascript-003140?style=for-the-badge&logo=javascript"/> <img src="https://img.shields.io/badge/typescript-003140?style=for-the-badge&logo=typescript"/> <img src="https://img.shields.io/badge/react-003140?style=for-the-badge&logo=react"/> <img src="https://img.shields.io/badge/redux-003140?style=for-the-badge&logo=redux"/> <img src="https://img.shields.io/badge/nestjs-003140?style=for-the-badge&logo=nestjs"/> <img src="https://img.shields.io/badge/jest-003140?style=for-the-badge&logo=jest"/> <img src="https://img.shields.io/badge/cypress-003140?style=for-the-badge&logo=cypress"/>
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ruslan.yar-v@yandex.ru)
 
----
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ruslanyar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ruslanyar&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ruslanyar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h2>:chart_with_upwards_trend: My stats</h3>
-
-<img style="width: 50%;" src="https://github-readme-stats-beige-seven.vercel.app/api?username=ruslanyar&hide=issues&count_private=true&show_icons=true&bg_color=003140&title_color=4ee077&text_color=CECECE&icon_color=4ee077&border_radius=5&border_color=4ee077" />
-<img style="width: 50%;" src="https://github-readme-stats-beige-seven.vercel.app/api/top-langs/?username=ruslanyar&layout=compact&bg_color=003140&title_color=4ee077&text_color=CECECE&border_radius=5&border_color=4ee077">
-<img style="width: 50%;" src="https://streak-stats.demolab.com?user=ruslanyar&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D&background=003140&ring=4ee077&fire=CD543C&sideNums=4ee077&currStreakLabel=CECECE&border=4ee077" />
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 

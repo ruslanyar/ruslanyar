@@ -23,12 +23,24 @@
 [![telegram](https://img.shields.io/badge/Telegram-18A3E6?logo=telegram&logoColor=white)](https://t.me/ruslan_yar)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ruslanyar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ruslanyar&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ruslanyar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://github.com/ruslanyar/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-beige-seven.vercel.app/api?username=ruslanyar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/ruslanyar/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-beige-seven.vercel.app/api/top-langs/?username=ruslanyar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</a>
+
+<br>
+
+<a href="https://github.com/ruslanyar/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruslanyar&theme=tokyonight&hide_border=true" />
+</a>
+
+## 📊 WakaTime Stats
+![Ruslanyar's WakaTime stats](https://github-readme-stats-beige-seven.vercel.app/api/wakatime?username=ruslanyar&theme=tokyonight&layout=compact&hide_border=true)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ruslanyar&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ruslanyar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

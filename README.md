@@ -18,7 +18,7 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-## 🌐 Socials:
+## 🌐 Contacts:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ruslan.yar-v@yandex.ru)
 [![telegram](https://img.shields.io/badge/Telegram-18A3E6?logo=telegram&logoColor=white)](https://t.me/ruslan_yar)
 

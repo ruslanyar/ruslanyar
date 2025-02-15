@@ -3,7 +3,7 @@
 
 💫 About Me:
 
-🔭 I’m currently working on developing web applications in React and Node.js.<br>🤝 I’m looking for help with learning Docker and Kubernetes to improve skills in DevOps.<br>🌱 I’m currently learning Next.js and improving my knowledge of algorithms<br>🎸 I like board games and playing guitar<br>
+🔭 I’m currently working on developing web applications in React and Strapi.<br>🤝 I’m looking for help with learning Docker and Kubernetes to improve skills in DevOps.<br>🌱 I’m currently learning Next.js and improving my knowledge of algorithms<br>🎸 I like board games and playing guitar<br>
 
 <br>
 <br>

@@ -16,7 +16,9 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🌐 Contacts:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ruslan.yar-v@yandex.ru)
@@ -30,9 +32,11 @@
   <img height=200 align="center" src="https://github-readme-stats-beige-seven.vercel.app/api/top-langs/?username=ruslanyar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </a>
 
+<!--
 <br>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight-cyan.vercel.app?user=ruslanyar&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=462&card_height=200" alt="GitHub Streak" /></a>
+-->
 
 ## 📊 WakaTime Stats
 ![Ruslanyar's WakaTime stats](https://github-readme-stats-beige-seven.vercel.app/api/wakatime?username=ruslanyar&theme=tokyonight&layout=compact&hide_border=true)

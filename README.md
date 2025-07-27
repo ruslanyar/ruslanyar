@@ -23,7 +23,7 @@
 ## 🌐 Contacts:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ruslan.yar-v@yandex.ru)
 [![telegram](https://img.shields.io/badge/Telegram-18A3E6?logo=telegram&logoColor=white)](https://t.me/ruslan_yar)
-https://github-readme-stats-ruslanyars-projects.vercel.app/
+
 ## 📊 GitHub Stats:
 <a href="https://github.com/ruslanyar/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-ruslanyars-projects.vercel.app/api?username=ruslanyar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />

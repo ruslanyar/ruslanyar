@@ -25,14 +25,15 @@
 [![telegram](https://img.shields.io/badge/Telegram-18A3E6?logo=telegram&logoColor=white)](https://t.me/ruslan_yar)
 
 ## 📊 GitHub Stats:
+
+<!---
 <a href="https://github.com/ruslanyar/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-ruslanyars-projects.vercel.app/api?username=ruslanyar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/ruslanyar/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-ruslanyars-projects.vercel.app/api/top-langs/?username=ruslanyar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </a>
-
-<br>
+-->
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight-cyan.vercel.app?user=ruslanyar&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=462&card_height=200" alt="GitHub Streak" /></a>
 

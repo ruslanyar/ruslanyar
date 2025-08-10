@@ -32,11 +32,9 @@
   <img height=200 align="center" src="https://github-readme-stats-ruslanyars-projects.vercel.app/api/top-langs/?username=ruslanyar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </a>
 
-<!--
 <br>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight-cyan.vercel.app?user=ruslanyar&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=462&card_height=200" alt="GitHub Streak" /></a>
--->
 
 ## 📊 WakaTime Stats
 ![Ruslanyar's WakaTime stats](https://github-readme-stats-beige-seven.vercel.app/api/wakatime?username=ruslanyar&theme=tokyonight&layout=compact&hide_border=true)
